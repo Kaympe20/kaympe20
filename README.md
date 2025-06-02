@@ -1,5 +1,12 @@
 # Hi there 👋
 
+## Why I Love JavaScript
+```js
+0 == []; //true
+0 == "0"; //true
+"0" == []; //false
+```
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaympe20&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaympe20&theme=tokyonight&utcOffset=4)
