@@ -1,5 +1,14 @@
 # Hi there 👋
 
+## Contact Info
+Email: [kayla@is.notaskid.ong](mailto:kayla@is.notaskid.ong)
+
+Phone Number: [(332)-203-9094](tel:+13322039094)
+
+Signal: [`@kay.110`](https://signal.me/#eu/8d_wWms3QVfQOXgeVE0cFj55UTrPQEqJgPjSyj9s7WBIHYtCZXlHt4-7i1HBAa_q)
+
+Telegram: [`@kaympe`](https://t.me/kaympe)
+
 ## Why I Love JavaScript
 ```js
 0 == []; //true
